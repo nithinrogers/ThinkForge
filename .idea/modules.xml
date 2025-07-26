@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thinkforge.iml" filepath="$PROJECT_DIR$/thinkforge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/thinkforge_android.iml" filepath="$PROJECT_DIR$/android/thinkforge_android.iml" />
+    </modules>
+  </component>
+</project>

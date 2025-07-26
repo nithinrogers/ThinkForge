@@ -1,0 +1,1 @@
+ C:\\Mini\ Projects\\thinkforge\\.dart_tool\\flutter_build\\65ed3c95df40ed493105a3f139716716\\native_assets.yaml: 

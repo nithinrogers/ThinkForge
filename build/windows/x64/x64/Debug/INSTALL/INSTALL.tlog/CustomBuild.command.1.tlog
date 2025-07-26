@@ -1,0 +1,10 @@
+^C:\MINI PROJECTS\THINKFORGE\BUILD\WINDOWS\X64\CMAKEFILES\101AB36A31A38D862F7ABC452EF85051\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
